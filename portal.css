@@ -98,6 +98,7 @@ body{
     height: -webkit-fill-available;
     min-width: -webkit-fill-available;
     background: var(--white);
+    font-size: 20px;
     transition: 1s all ease-in;
     transition-delay: 0.5s;
 }
